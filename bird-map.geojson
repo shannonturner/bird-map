@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0175623,
+          38.9026827
+        ]
+      },
+      "properties": {
+        "marker-symbol": "laundry",
+        "marker-color": "#FC3700";
+        "Dust Bathing": "This patch of dirt has many small divets where sparrows dust bathe",
+        "Address": "445 4 1/2 St NW",
+        "Street View": "https://www.google.com/maps/@38.9026827,-77.0175623,3a,75y,99.94h,62.03t/data=!3m6!1e1!3m4!1sHknLwE45c4-V9RB8IWoUHw!2e0!7i13312!8i6656",
+        "Birds": "Sparrows"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0175648,
+          38.9028699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "marker-color": "#FC7E22",
+        "Eatery": "People often tear up bread and leave it in the parking lot here to feed the birds in defiance of the Please Do Not Feed the Pigeons sign",
+        "Address": "445 4 1/2 St NW",
+        "Street View": "https://www.google.com/maps/@38.9028699,-77.0175648,3a,75y,79.93h,63.77t/data=!3m6!1e1!3m4!1sppzMZ5p6XcPezp_W80zGbA!2e0!7i13312!8i6656",
+        "Birds": "Pigeons, Starlings, Sparrows"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0318898,
+          38.9072395
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "marker-color": "#FC7E22",
+        "Eatery": "This corner frequently has bread torn up for pigeons who celebrate Breadmas, the holiest of pigeon holidays",
+        "Address": "14th St & N St NW",
+        "Street View": "https://www.google.com/maps/@38.9072395,-77.0318898,3a,75y,121.14h,62.51t/data=!3m9!1e1!3m7!1s7YkmnN8MYncthnjeHHfToQ!2e0!7i13312!8i6656!9m2!1b1!2i52",
+        "Birds": "Pigeons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0263823,
+          38.9012505
+        ]
+      },
+      "properties": {
+        "marker-symbol": "swimming",
+        "marker-color": "#09E9FF",
+        "Splashing": "This fountain is a hotspot for birds bathing, especially in the summer",
+        "Address": "New York Ave NW between 10th and 11th St",
+        "Street View": "https://www.google.com/maps/@38.9012505,-77.0263823,3a,75y,140.75h,62.88t/data=!3m9!1e1!3m7!1sDXutRvuLM_Cmzfgt-xgzSw!2e0!7i13312!8i6656!9m2!1b1!2i52",
+        "Birds": "Starlings, Sparrows, Cowbirds, Grackles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0378434,
+          38.8995861
+        ]
+      },
+      "properties": {
+        "marker-symbol": "swimming",
+        "marker-color": "#09E9FF",
+        "Splashing": "This fountain is where ducks take their naps during lunch break",
+        "Address": "Lafayette Park",
+        "Street View": "https://www.google.com/maps/@38.8995861,-77.0378434,3a,75y,97.38h,60.7t/data=!3m9!1e1!3m7!1s-_HXfwKwk_PPUyUIqv8kfA!2e0!7i13312!8i6656!9m2!1b1!2i52",
+        "Birds": "Ducks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0334148,
+          38.909678,
+        ]
+      },
+      "properties": {
+        "marker-symbol": "basketball",
+        "marker-color": "#8727FF",
+        "Struttin": "The pigeons outside of the Whole Foods on P St are the struttin'est pidges in town",
+        "Address": "1445 P St NW",
+        "Street View": "https://www.google.com/maps/@38.909678,-77.0334148,3a,37.6y,217.51h,88.6t/data=!3m7!1e1!3m5!1soQuHMyyYS2pjiS2lpnllvQ!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DoQuHMyyYS2pjiS2lpnllvQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D317.42126%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+        "Birds": "Pigeons"
+      }
+    }
+  ]
+}
